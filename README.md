@@ -4,9 +4,9 @@
 
 I work on the architecture of trustworthy AI — the frameworks, decisions, and institutions that let organizations adopt AI with confidence. Author of *Constitutional Intelligence™: A Decision Architecture for Trustworthy AI Governance* (FriesenPress, 2026).
 
-## The book
+## Constitutional Intelligence™
 
-*Constitutional Intelligence™* introduces four practical frameworks for governing AI as a public trust:
+*Constitutional Intelligence™: A Decision Architecture for Trustworthy AI Governance* (FriesenPress, 2026) — the book plus four practical frameworks for governing AI as a public trust:
 
 - **IMPACT™** — Information Architecture for decision-grade data
 - **DECIDE-PLUS™** — a decision methodology for AI-era leaders
